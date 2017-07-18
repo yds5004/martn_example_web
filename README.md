@@ -18,3 +18,5 @@ html에서 전송 버튼을 누르면 아래와 같은 결과를 확인할 수 �
         AllowOverride None
         Require all granted
     </Directory>
+
+api가 필요하기 때문에 반드시 example_api에 대한 tomcat을 테스트 전에 실행해 놓으셔야 합니다.
